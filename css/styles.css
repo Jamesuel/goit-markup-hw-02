@@ -2,3 +2,142 @@ body{
     font-family: 'Raleway', sans-serif;
     font-family: 'Roboto', sans-serif;
 }
+
+.fillers p{
+    font-family: Roboto;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 150%;
+    
+}
+
+
+
+nav li a{
+    text-decoration: none;
+    color: black;
+}
+
+header .contacts li a{
+    text-decoration: none;
+    color: black;
+}
+
+header .contacts li a:hover{
+    color: rgba(77, 90, 229, 1);
+    cursor: pointer;
+}
+
+nav li a:hover{
+    color: rgba(77, 90, 229, 1);
+}
+
+
+
+
+
+
+
+
+
+
+.fillers ul{
+    list-style: none;
+}
+
+nav li{
+    list-style: none;
+    text-decoration: none;
+}
+
+nav{
+    font-weight: 500;
+}
+
+.contacts li{
+    list-style: none;
+}
+
+
+.title{
+    background-color: rgba(46, 47, 66, 1);
+}
+
+.title h1{
+    font-family: Roboto;
+    font-size: 56px;
+    font-style: normal;
+    font-weight: 700;
+    text-align: center;
+    color: white;
+    line-height: 107.143%;
+}
+
+.title button{
+    color: white;
+    background-color: rgba(77, 90, 229, 1);
+    display: inline-flex;
+    padding: 10px 16px;
+    align-items: flex-start;
+}
+
+.wedo h2{
+    text-align: center;
+    font-family: Roboto;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 111.111%;
+}
+
+.wedo li{
+    list-style: none;
+}
+
+.team h2{
+    text-align: center;
+    font-family: Roboto;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 111.111%;
+}
+
+.team h3{
+    text-align: center;
+}
+
+.team p{
+    text-align: center;
+}
+
+.team li{
+    list-style: none;
+}
+
+footer{
+    background-color: rgba(46, 47, 66, 1);
+}
+
+footer p{
+    color: white;
+}
+
+
+.top-buttons{
+    list-style: none;
+}
+
+button{
+    color: rgba(77, 90, 229, 1);
+    font-weight: 600;
+    background-color: rgba(244, 244, 253, 1);
+    border: none;
+    padding: 5px;
+}
+
+button:hover{
+    background-color: rgba(64, 75, 191, 1);
+    color: white;
+}
