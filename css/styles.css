@@ -1,3 +1,21 @@
+:root  {
+    var(--iris, #4D5AE5);
+    var(--ocean, #404BBF);
+    var(--navyblue, #2E2F42);
+    var(--green, #31D0AA);
+    var(--slate, #434455);
+    var(--lightslate, #8E8F99);
+    var(--cornflower, #E7E9FC);
+    var(--cloud, #F4F4FD);
+    var(--navyblue-modal, rgba(46, 47, 66, 0.40));
+    var(--grey, rgba(46, 47, 66, 0.70));
+    var(--white, #FFF);
+    var(--navyblue-modal, rgba(46, 47, 66, 0.40));
+
+}
+
+
+
 body{
     font-family: 'Raleway', sans-serif;
     font-family: 'Roboto', sans-serif;
@@ -12,6 +30,25 @@ body{
     
 }
 
+a.nav-logo{
+    color: var(--navyblue, #2E2F42);
+font-family: Raleway;
+font-size: 18px;
+font-style: normal;
+font-weight: 800;
+line-height: 21px; /* 116.667% */
+letter-spacing: 0.54px;
+text-transform: uppercase;
+text-decoration: none;
+}
+
+
+.iris-logo{
+    color: var(--iris, #4D5AE5);
+}
+
+
+
 nav li a{
     text-decoration: none;
     color: black;
@@ -21,6 +58,37 @@ header .contacts li a{
     text-decoration: none;
     color: black;
 }
+
+.section-title-heading{
+    font-size: 56px;
+font-style: normal;
+font-weight: 700;
+line-height: 60px; /* 107.143% */
+letter-spacing: 1.12px;
+}
+
+.section-title{
+    font-style: normal;
+font-weight: 700;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 header .contacts li a:hover{
     color: rgba(77, 90, 229, 1);
