@@ -220,20 +220,24 @@ letter-spacing: 0.64px;
     list-style: none;
 }
 
-.address-contacts-list a:hover{
+.address-contacts-list a:hover,
+.address-contacts-list a:focus{
     color: #4D5AE5;
 }
 
-.nav-list a:hover{
+.nav-list a:hover,
+.nav-list a:focus{
     color: #4D5AE5;
 }
 
-.top-buttons button:hover{
+.top-buttons button:hover,
+.top-buttons button:focus{
     color: #FFF;
     background-color: #4D5AE5;
 }
 
-.section-hero button:hover{
+.section-hero button:hover,
+.section-hero button:focus{
     cursor: pointer;
     background-color: #434455;
 }
