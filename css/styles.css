@@ -32,8 +32,7 @@ body{
     color: var(--navyblue);
 font-family: Raleway;
 font-size: 18px;
-font-style: normal;
-font-weight: 800;
+font-weight: 400;
 line-height: 21px; /* 116.667% */
 letter-spacing: 0.54px;
 text-transform: uppercase;
@@ -50,8 +49,7 @@ text-decoration: none;
     list-style: none;
     font-family: Roboto;
 font-size: 16px;
-font-style: normal;
-font-weight: 500;
+font-weight: 400;
 line-height: 24px; /* 150% */
 letter-spacing: 0.32px;
 
@@ -81,8 +79,7 @@ letter-spacing: 0.32px;
 .section-title-heading{
     
 font-size: 56px;
-font-style: normal;
-font-weight: 700;
+font-weight: 400;
 line-height: 60px; /* 107.143% */
 letter-spacing: 1.12px;
 color: var(--white);
@@ -102,8 +99,7 @@ align-items: flex-start;
 gap: 10px;
 font-family: Roboto;
 font-size: 16px;
-font-style: normal;
-font-weight: 500;
+font-weight: 400;
 line-height: 24px; /* 150% */
 letter-spacing: 0.64px;
 color: var(--white);
@@ -116,8 +112,7 @@ color: var(--white);
 .feature-list-title{
     font-family: Roboto;
 font-size: 20px;
-font-style: normal;
-font-weight: 500;
+font-weight: 400;
 line-height: 24px; /* 120% */
 letter-spacing: 0.4px;
 color: var(--navyblue);
@@ -126,7 +121,6 @@ color: var(--navyblue);
 .features-list-description{
     font-family: Roboto;
 font-size: 16px;
-font-style: normal;
 font-weight: 400;
 line-height: 24px; /* 150% */
 letter-spacing: 0.32px;
@@ -138,8 +132,7 @@ color: var(--slate);
 text-align: center;
 font-family: Roboto;
 font-size: 36px;
-font-style: normal;
-font-weight: 700;
+font-weight: 400;
 line-height: 40px; /* 111.111% */
 letter-spacing: 0.72px;
 text-transform: capitalize;
@@ -156,8 +149,7 @@ text-transform: capitalize;
 .team-member{
     font-family: Roboto;
 font-size: 20px;
-font-style: normal;
-font-weight: 500;
+font-weight: 400;
 line-height: 24px; /* 120% */
 letter-spacing: 0.4px;
 color: var(--navyblue);
@@ -169,7 +161,6 @@ text-align: center;
 text-align: center;
 font-family: Roboto;
 font-size: 16px;
-font-style: normal;
 font-weight: 400;
 line-height: 24px; /* 150% */
 letter-spacing: 0.32px;
@@ -177,8 +168,7 @@ letter-spacing: 0.32px;
 
 .portfolio-feature-title{
     font-size: 20px;
-font-style: normal;
-font-weight: 500;
+font-weight: 400;
 line-height: 24px; /* 120% */
 letter-spacing: 0.4px;
 color: var(--navyblue)
@@ -186,7 +176,6 @@ color: var(--navyblue)
 
 .portfolio-feature-designation{
     font-size: 16px;
-    font-style: normal;
     font-weight: 400;
     line-height: 24px; /* 150% */
     letter-spacing: 0.32px;
@@ -197,8 +186,7 @@ color: var(--navyblue)
     color: var(--cloud);
 font-family: Raleway;
 font-size: 18px;
-font-style: normal;
-font-weight: 800;
+font-weight: 400;
 line-height: 21px; /* 116.667% */
 letter-spacing: 0.54px;
 text-transform: uppercase;
@@ -208,7 +196,6 @@ text-transform: uppercase;
     color: var(--cloud);
 font-family: Roboto;
 font-size: 16px;
-font-style: normal;
 font-weight: 400;
 line-height: 24px; /* 150% */
 letter-spacing: 0.32px;
@@ -236,8 +223,7 @@ color: var(--white, #FFF);
 text-align: center;
 font-family: Roboto;
 font-size: 16px;
-font-style: normal;
-font-weight: 500;
+font-weight: 400;
 line-height: 24px; /* 150% */
 letter-spacing: 0.64px;
 padding: 12px 24px;
@@ -252,8 +238,7 @@ color: var(--iris, #4D5AE5);
 text-align: center;
 font-family: Roboto;
 font-size: 16px;
-font-style: normal;
-font-weight: 500;
+font-weight: 400;
 padding: 12px 24px;
 letter-spacing: 0.64px;
 
